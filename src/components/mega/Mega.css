@@ -1,0 +1,20 @@
+.Mega input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.Mega button {
+    font-size: 1.1rem;
+    border-style: hidden;
+    background-color: blueviolet;
+    color: #FFF;
+    margin: 10px;
+    width: 180px;
+    height: 30px;
+}
+
+.Numbers {
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: safe;
+}
